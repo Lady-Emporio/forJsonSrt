@@ -35,12 +35,12 @@ whatsoever
 {"eng"		 : "permanently",
  "ru" 		 : "постоянный",
  "eng_value" : "continuing forever or for a long time",
- "example"   : "www"
+ "example"   : "and banished her permanently in the moon."
 },
 {"eng"		 : "responsibility",
  "ru" 		 : "The head of the department has various additional responsibilities.",
  "eng_value" : "something that it is your job or duty to deal with",
- "example"   : "www"
+ "example"   : "The elder sister took on responsibility for both sun and moon"
 },
 {"eng"		 : "generation",
  "ru" 		 : "поколение",
@@ -53,6 +53,31 @@ whatsoever
  "example"   : "I wonder why she left so suddenly."
 },
 {"eng"		 : "until",
+ "ru" 		 : "до, до тех пор пока",
+ "eng_value" : "continuing to happen before a particular time or event and then stopping | as far as",
+ "example"   : "The show will be on until the end of the month. | Carry on until you reach the traffic lights and turn right."
+},
+{"eng"		 : "reach",
+ "ru" 		 : "www",
+ "eng_value" : "www",
+ "example"   : "www"
+},
+{"eng"		 : "event",
+ "ru" 		 : "www",
+ "eng_value" : "www",
+ "example"   : "www"
+},
+{"eng"		 : "before",
+ "ru" 		 : "www",
+ "eng_value" : "www",
+ "example"   : "www"
+},
+{"eng"		 : "far",
+ "ru" 		 : "www",
+ "eng_value" : "www",
+ "example"   : "www"
+},
+{"eng"		 : "as",
  "ru" 		 : "www",
  "eng_value" : "www",
  "example"   : "www"
