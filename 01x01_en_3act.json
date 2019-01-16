@@ -58,34 +58,44 @@ whatsoever
  "example"   : "The show will be on until the end of the month. | Carry on until you reach the traffic lights and turn right."
 },
 {"eng"		 : "reach",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "достигать, доходить | доезжать",
+ "eng_value" : "to get to a particular level, situation, etc | to arrive somewhere",
+ "example"   : "We won't reach Miami till five or six o'clock."
+},
+{"eng"		 : "arrive",
+ "ru" 		 : "прибывать",
+ "eng_value" : "to get to a place",
+ "example"   : "When he first arrived in New York, he didn't speak a word of English."
 },
 {"eng"		 : "event",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "событие",
+ "eng_value" : "something that happens, especially something important or unusual",
+ "example"   : "Local people have been shocked by recent events in the town."
 },
 {"eng"		 : "before",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "до, перед, раньше, прежде",
+ "eng_value" : "earlier than something or someone | in a position in front of someone or something",
+ "example"   : "She arrived before me. | The hospital is just before the bridge."
+},
+{"eng"		 : "just",
+ "ru" 		 : "просто, всего лишь, только | только что",
+ "eng_value" : "only | a very short time ago",
+ "example"   : "He just wants to win. | I've just been on a trip to France."
 },
 {"eng"		 : "far",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "далеко | давно",
+ "eng_value" : "used to talk about how distant something is | a long time",
+ "example"   : "How far back can you remember? | How far is it to the supermarket?"
 },
 {"eng"		 : "as",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "так же как | потому что, поскольку |когда, в то время как, по мере того как",
+ "eng_value" : "used to compare two things, people, amounts, etc | because | used to describe two things happening at the same time or something happening at a particular time",
+ "example"   : "He's not as tall as his brother. | You can go first as you're the oldest. | He was shot in the back as he tried to escape."
 },
 {"eng"		 : "share",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "делить, разделять",
+ "eng_value" : "to have or use something at the same time as someone else",
+ "example"   : "She shares a house with Paul."
 },
 {"eng"		 : "faith",
  "ru" 		 : "www",
@@ -186,67 +196,6 @@ whatsoever
  "ru" 		 : "www",
  "eng_value" : "www",
  "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "www",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-
+}
 ]
 }
