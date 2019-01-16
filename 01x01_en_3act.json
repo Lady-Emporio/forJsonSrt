@@ -1,27 +1,85 @@
 {"eng_words_tables":[
 
-Местоимения: this (этот) и that (тот) имеют формы мн.числа, соответственно: these (эти) и those (те)
-Relative Clauses - who, whose, where, which
-относительных местоимений (relative pronouns) или относительных наречий (relative adverbs)
-английский вопросительные слова
-
-who
-whom
-whose
-what
-which
-where
-whither
-whence
-when
-how
-why
-whether 
-whatsoever
-
-
-
-
+{"eng"		 : "this",
+ "ru" 		 : "этот, эта, это",
+ "eng_value" : "used to refer to something or someone that is near you or that you are pointing to",
+ "example"   : "Most people don't agree with this decision."
+},
+{"eng"		 : "that",
+ "ru" 		 : "тот, та, то",
+ "eng_value" : "used to refer to something or someone that is not near you",
+ "example"   : "He went through that door."
+},
+{"eng"		 : "these",
+ "ru" 		 : "эти",
+ "eng_value" : "plural of this",
+ "example"   : "These are coins"
+},
+{"eng"		 : "those",
+ "ru" 		 : "те",
+ "eng_value" : "plural of that",
+ "example"   : "Those are balls "
+},
+{"eng"		 : "who",
+ "ru" 		 : "кто | который",
+ "eng_value" : "used to ask about someone's name or which person or group someone is talking about",
+ "example"   : "Who told you? My brother, who's only just seventeen, has already passed his driving test."
+},
+{"eng"		 : "whom",
+ "ru" 		 : "кого, кому, кем, о ком",
+ "eng_value" : "used instead of 'who' as the object of a verb or preposition",
+ "example"   : "I met a man with whom I used to work."
+},
+{"eng"		 : "whose",
+ "ru" 		 : "чей? чья? чье? чьи?",
+ "eng_value" : "used to ask who something belongs to or who someone or something is connected with",
+ "example"   : "Whose gloves are these?"
+},
+{"eng"		 : "what",
+ "ru" 		 : "что?",
+ "eng_value" : "used to ask for information about something",
+ "example"   : "What happened?"
+},
+{"eng"		 : "which",
+ "ru" 		 : "какой? который?",
+ "eng_value" : "used to ask or talk about a choice between two or more things",
+ "example"   : "Which of these do you like best?"
+},
+{"eng"		 : "where",
+ "ru" 		 : "где?",
+ "eng_value" : "used to ask about the place or position of someone or something",
+ "example"   : "Where does she live?"
+},
+{"eng"		 : "whither",
+ "ru" 		 : "куда",
+ "eng_value" : "to where",
+ "example"   : "Whither are they going?"
+},
+{"eng"		 : "whence",
+ "ru" 		 : "откуда",
+ "eng_value" : "(from) where",
+ "example"   : "It has been returned to the shop from whence it came. | From whence is she? "
+},
+{"eng"		 : "when",
+ "ru" 		 : "когда?",
+ "eng_value" : "at what time; at the time at which:",
+ "example"   : "When's your birthday?"
+},
+{"eng"		 : "how",
+ "ru" 		 : "как?",
+ "eng_value" : "used to ask about the way something happens or is done",
+ "example"   : "How did he die?"
+},
+{"eng"		 : "why",
+ "ru" 		 : "почему?",
+ "eng_value" : "used to ask or talk about the reasons for something",
+ "example"   : "I wonder why he didn't come."
+},
+{"eng"		 : "whether",
+ "ru" 		 : "или, ли",
+ "eng_value" : "used to talk about a choice between two or more possibilities",
+ "example"   : "Someone's got to tell her, whether it's you or me. | I wasn't sure whether you'd like it."
+},
 {"eng"		 : "since",
  "ru" 		 : "с, с тех пор, после",
  "eng_value" : "from a time in the past until a later time or until now",
@@ -98,104 +156,99 @@ whatsoever
  "example"   : "She shares a house with Paul."
 },
 {"eng"		 : "faith",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "вера, доверие",
+ "eng_value" : "strong belief in a god or gods | the belief that someone or something is good, right, and able to be trusted",
+ "example"   : "Throughout her illness, she never lost her faith in God."
 },
 {"eng"		 : "kindness",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "доброта",
+ "eng_value" : "kind behaviour",
+ "example"   : "Thanks for all your kindness this morning."
 },
 {"eng"		 : "yard",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "двор",
+ "eng_value" : "an area of land in front of or behind a house",
+ "example"   : "a school yard"
 },
 {"eng"		 : "except",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "кроме",
+ "eng_value" : "not including a particular fact, thing, or person",
+ "example"   : "Everyone passed the exam except for Rory."
 },
 {"eng"		 : "quick",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "быстрый",
+ "eng_value" : "doing something fast or taking only a short time",
+ "example"   : "I tried to catch him but he was too quick for me."
 },
 {"eng"		 : "prediction",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "предсказание, прогноз",
+ "eng_value" : "the act of saying what you think will happen in the future",
+ "example"   : "I wouldn't like to make any predictions about the result of this match."
 },
 {"eng"		 : "tale",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "история, рассказ, выдумка",
+ "eng_value" : "a story, especially one that is not true or is difficult to believe",
+ "example"   : "My grandfather used to tell us tales of his time as a pilot during the war."
 },
 {"eng"		 : "myth",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "миф",
+ "eng_value" : "an ancient story about gods and brave people, often one that explains an event in history or the natural world",
+ "example"   : "a Greek myth"
 },
 {"eng"		 : "powerful",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "яркий, сильный | мощный | влиятельный",
+ "eng_value" : "having a strong effect on people | having a lot of strength or force | is able to control and influence people and events.",
+ "example"   : "a powerful man/woman"
 },
 {"eng"		 : "escape",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "совершать побег | избегать",
+ "eng_value" : "to succeed in getting away from a place where you do not want to be",
+ "example"   : "The two killers escaped from prison last night."
 },
 {"eng"		 : "discover",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "находить, обнаруживать",
+ "eng_value" : "to find something",
+ "example"   : "Who discovered America? The body was discovered in a ditch."
 },
 {"eng"		 : "disaster",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
-},
-{"eng"		 : "precipice",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "бедствие, катастрофа",
+ "eng_value" : "something that causes a lot of harm or damage | a failure or something that has a very bad result",
+ "example"   : "floods and other natural disasters. His idea was a total disaster."
 },
 {"eng"		 : "response",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "ответ, реакция",
+ "eng_value" : "an answer or reaction to something that has been said or done",
+ "example"   : "The President's comments provoked an angry response from students."
 },
 {"eng"		 : "twilight",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "сумерки",
+ "eng_value" : "the time just before it becomes completely dark in the evening",
+ "example"   : "It was twilight , and the light was dark yellow and cast long shadows."
 },
 {"eng"		 : "sparkle",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "искриться, сверкать",
+ "eng_value" : "to shine brightly because of reflected light | to do something in a special or exciting way",
+ "example"   : "Her eyes sparkled with excitement. | The concert gave her an opportunity to sparkle."
 },
 {"eng"		 : "celebration",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "празднование",
+ "eng_value" : "an occasion when you celebrate a special day or event, or the act of celebrating",
+ "example"   : "Let's buy some champagne in celebration of her safe arrival."
 },
 {"eng"		 : "breath",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "дыхание, запах изо рта",
+ "eng_value" : "the air that comes out of your lungs",
+ "example"   : "His breath smells of garlic."
 },
 {"eng"		 : "doubt",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "сомнение",
+ "eng_value" : "the feeling of not being certain about something, or not trusting someone or something",
+ "example"   : "I have some doubts about his ability to do the job."
 },
 {"eng"		 : "immediate",
- "ru" 		 : "www",
- "eng_value" : "www",
- "example"   : "www"
+ "ru" 		 : "немедленный, безотлагательный",
+ "eng_value" : "important now and needing attention | happening or done without waiting or very soon after something else",
+ "example"   : "Our immediate concern is getting food and water to the refugees."
 }
 ]
 }
